@@ -6,3 +6,4 @@ pandas_profiling==2.3.0
 pandas==1.2.4
 matplotlib==3.4.2
 scikit_learn==0.24.2
+xgboost==1.4.2
